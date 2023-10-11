@@ -1,11 +1,11 @@
 # Site settings
-title: Shi Hai's Blog
-SEOTitle: 史海的博客
+title: Wu jing's Blog
+SEOTitle: 吴净的博客
 header-img: img/home-bg-lake.jpeg
-email: shihai1992@gmail.com
-description: "A coder for Huawei's CIS of CloudBU"
-keyword: "史海, Hai Shi, Hayes, CPython, OpenStack, Iaas, OpenSource, Linux"
-url: "https://shihai1991.github.io"              # your host, for absolute URL
+email: wujing9311@163.com
+description: ""
+keyword: "吴净,Wu Jing,Database"
+url: "https://wujing9311.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,10 +13,6 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     hai_shi_
-zhihu_username:     shihai1991 
-github_username:    shihai1991 
-twitter_username:   hai_shi1991 
 #facebook_username:  h
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -98,15 +94,3 @@ service-worker: true
 # MathJax rendering for layout:page (e.g. post preview)
 page-mathjax: false
 
-
-
-# Friends
-friends: [
-    {
-    #     title: "Su",
-    #     href: "http://su.gallery/"
-    # },{
-        title: "陈翔的博客",
-        href: "http://xionchen.github.io"
-    }
-]
