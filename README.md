@@ -1,3 +1,3 @@
-# Shihai's Blog
+# Wujing's Blog
 
-### [View Shihai's Blog &rarr;](http://shihai1991.github.io)
+### [View Wujing's Blog &rarr;](http://wujing9311.github.io)
